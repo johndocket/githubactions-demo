@@ -10,4 +10,9 @@ public class SimpleTest {
         Assertions.assertTrue(true);
     }
 
+    @Test
+    public void segundoTeste() {
+        Assertions.assertTrue(true);
+    }
+
 }
